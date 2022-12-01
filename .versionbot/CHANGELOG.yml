@@ -1,0 +1,26 @@
+- commits:
+    - subject: Start changelog afresh
+      hash: ad78044167923e10b0008afb3465d357a81f0084
+      body: >
+        Versionist doesn't work with an existing CHANGELOG.md file, complaining
+        that it can't find the corresponding git ref ("Omitting v0.102.1. No
+        valid git reference was found.").
+
+
+        This commit blows away the changelog that was copied (up to v0.102.1) from the previous repo so versionist can do its thing. The original log can still be viewed at the source: https://github.com/balena-io/renovate-config/blob/master/CHANGELOG.md
+      footer:
+        Change-type: patch
+        change-type: patch
+        Signed-off-by: Heath Raftery (@hraftery) <heath.raftery@balena.io>
+        signed-off-by: Heath Raftery (@hraftery) <heath.raftery@balena.io>
+      author: Heath Raftery
+      nested: []
+    - subject: "patch: Update name of etcherPro-fleet-sw repo"
+      hash: 0e0b0a4d99d4da661174afe8f7b7a3de95edebe9
+      body: ""
+      footer: {}
+      author: Heath Raftery
+      nested: []
+  version: 0.0.2
+  title: ""
+  date: 2022-12-01T06:25:00.279Z
