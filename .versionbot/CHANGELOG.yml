@@ -1,4 +1,14 @@
 - commits:
+    - subject: "patch: Update readme to suit this repo"
+      hash: 14865406c026a90cc9ee80a015ab17cf007e7b85
+      body: Previously it stated the opposite of what it is.
+      footer: {}
+      author: Heath Raftery
+      nested: []
+  version: 0.0.3
+  title: ""
+  date: 2022-12-01T08:32:00.455Z
+- commits:
     - subject: Start changelog afresh
       hash: ad78044167923e10b0008afb3465d357a81f0084
       body: >
